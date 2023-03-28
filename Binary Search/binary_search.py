@@ -20,4 +20,4 @@ def binary_search(list, item):
 
 # Test case
 sortedList = [1,2,3,4,5,6,7,8,9,10]
-print(binary_search(sortedList, 3))
+print(binary_search(sortedList, 4))
